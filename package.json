@@ -1,0 +1,14 @@
+{
+  "name": "electronsample",
+  "version": "1.0.0",
+  "description": "electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "erol saroglu",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.3"
+  }
+}
